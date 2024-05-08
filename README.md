@@ -9,3 +9,6 @@
     - native_contact_map: Contact map matrix.
 
 
+
+Source: 
+Goebel et. al. (1994) Proteins: Correlated mutations and residue contacts in proteins DOI: 10.1002/prot.340180402
