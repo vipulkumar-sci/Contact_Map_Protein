@@ -1,4 +1,3 @@
-# Contact_Map_Protein
     func_pdb_to_contact_map: Calculates contact map for a protein from a PDB file.
     
     Inputs:
@@ -7,5 +6,4 @@
     
     Output:
     - native_contact_map: Contact map matrix.
-
 
